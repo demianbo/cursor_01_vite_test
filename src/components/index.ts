@@ -5,6 +5,7 @@
 
 // Common/UI components
 export { Button } from './common/Button'
+export { ProductCard, type ProductCardProps } from './common/ProductCard'
 
 // Layout components
 // export { Header } from './layout/Header';

@@ -1,8 +1,8 @@
-import { UserProfileDemo } from "./pages/UserProfileDemo";
+import { ProductDemoPage } from "./pages/ProductDemoPage";
 import "./App.css";
 
 function App() {
-  return <UserProfileDemo />;
+  return <ProductDemoPage />;
 }
 
 export default App;
